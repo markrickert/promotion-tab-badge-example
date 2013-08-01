@@ -1,0 +1,16 @@
+GIT
+  remote: git://github.com/clearsightstudio/ProMotion.git
+  revision: 85c6cac3dc0808570325689fe78d260a96038dfa
+  branch: master
+  specs:
+    ProMotion (1.0.2)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ProMotion!
